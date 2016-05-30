@@ -1,4 +1,4 @@
-// time:
+// time: 0h13m
 
 // Echos program's arguments using os package
 package main
