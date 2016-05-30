@@ -1,5 +1,6 @@
 // time: 2h
 
+// Echo1 prints its command-line arguments.
 package main
 
 import (
