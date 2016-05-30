@@ -1,6 +1,6 @@
 // time: 0h13m
 
-// Echos program's arguments using os package
+// Echo2 prints its command-line arguments using os package.
 package main
 
 import "os"
