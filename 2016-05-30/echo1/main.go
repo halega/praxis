@@ -1,3 +1,5 @@
+// time: 2h
+
 package main
 
 import (
