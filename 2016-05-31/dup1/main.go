@@ -15,7 +15,7 @@ func main() {
 	}
 	for line, count := range counts {
 		if count > 1 {
-			fmt.Println(count, line)
+			fmt.Println(count, "\t", line)
 		}
 	}
 }
