@@ -16,4 +16,5 @@ func main() {
 	fmt.Printf("%q\n", 5)
 	fmt.Printf("%q\n", '5')
 	fmt.Printf("%U\n", '5')
+	fmt.Printf("%[1]s, %[1]q\n", "Hello\tworld\n")
 }
