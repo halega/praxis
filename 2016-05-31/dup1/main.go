@@ -1,4 +1,7 @@
-// Dup1 finds and outputs duplicate lines with count of duplication.
+// From the book The Go Programming Language by Donovan and Kernighan.
+
+// Dup1 prints the text of each line that appears more than
+// once in the standard input, preceded by its count.
 package main
 
 import (
