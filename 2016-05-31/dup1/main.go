@@ -1,4 +1,5 @@
 // From the book The Go Programming Language by Donovan and Kernighan.
+// time: 0h20m
 
 // Dup1 prints the text of each line that appears more than
 // once in the standard input, preceded by its count.
